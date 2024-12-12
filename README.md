@@ -1,4 +1,2 @@
-<div style="display: flex; justify-content: space-between;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=91xusir&bg_color=000000" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=91xusir" width="48%" />
-</div>
+| <a href="https://github.com/91xusir">  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=91xusir&layout=compact&langs_count=8&hide_border=true&role=OWNER,COLLABORATOR" /></a> | <a href="https://github.com/91xusir">  <img align="center" src="https://github-readme-stats.vercel.app/api/?username=91xusir&show_icons=true&count_private=true&hide_border=true&role=OWNER,COLLABORATOR" /></a> |
+| ------------- | ------------- |
